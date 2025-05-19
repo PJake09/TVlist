@@ -1,0 +1,38 @@
+{
+"name": "Thai Movies",
+"image": "https://img2.pic.in.th/pic/L2bce56c5afb72926.png",
+"url": "",
+"groups": [
+
+
+
+
+{
+ "name": "หนังไทย",
+ "author": "(=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 11 พฤศจิกายน 2567",
+ "image": "https://img2.pic.in.th/pic/L2bce56c5afb72926.png",
+ "url"  :  "https://dl.dropboxusercontent.com/scl/fi/yxcksv3vtn4tp8efbxwrz/.w3u?rlkey=4kcy7vo01i25fevaagbbolnpf&st=jsrlc3fk&dl=0",
+"import" : "true"
+},
+
+
+
+
+{
+ "name": "หนังไทย2",
+ "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 11 ตุลาคม 2567",
+ "image": "https://img5.pic.in.th/file/secure-sv1/L5.jpg",
+ "url"  :  "https://dl.dropboxusercontent.com/scl/fi/gi3as38nzwqupcsazs04z/2.txt?rlkey=mx22z34k2n4lzpqrexcv7ggyk&st=e7aaq2bc&dl=0",
+"import" : "true"
+},
+
+
+
+
+{
+ "name": "หนังไทย GTH/GDH",
+ "image": " https://img5.pic.in.th/file/secure-sv1/L3.jpg",
+ "url"  :  "https://raw.githubusercontent.com/9jaketae/DuNhang/refs/heads/main/หนัง%20GTH",
+"import" : "true"
+},
+]}
