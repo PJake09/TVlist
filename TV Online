@@ -81,6 +81,14 @@
 "playInNatPlayer": "true"
 },       
 {
+"name": "AXN HD",
+"image": "https://dookeela.live/uploads/1719897010.png",
+"url": "https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueAXN.m3u8",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},     
+{
 "name":"WANER TV",
 "image":"https://img5.pic.in.th/file/secure-sv1/we.png",
  "url": "https://dookeela.live/live-tv/warnertv#",
