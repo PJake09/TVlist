@@ -352,6 +352,13 @@ image:"https://dl.dropboxusercontent.com/scl/fi/ci453585kt19mor5is7nm/Thainew.pn
 url:"https://live.thaitvstream.com/play/thainews/index.m3u8",
  "desktop":"true", "playInNatPlayer": "true"},
 
+{"name"		: "FwMov",  
+"image"		: "https://www.fileinw.com/postor/20240429213309FWMOV.jpg",  
+"url"  : "https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=",
+"referer"		:	"https://www.inwiptv.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true","playInNatPlayer"	:	"true"
+},
 {"name"		: "     FwMov",  
 "image"		: "https://dl.dropboxusercontent.com/scl/fi/j0r52fhvwfxqt0gitcanf/FwMov.png?rlkey=tw0ye1uxi9c3gitnuuebpjdjj&st=lu40vsvq&dl=0",  
 "url"			: "https://www.inwiptv.com/player_demo.php?channel=95262",
@@ -361,7 +368,14 @@ url:"https://live.thaitvstream.com/play/thainews/index.m3u8",
 "desktop"		:	"true",
 "playInNatPlayer"	:	"true"
 },
-
+{"name"		: "FwSon",
+"image"		: "https://www.fileinw.com/postor/20240429213651FWTOON.jpg",  
+"url"  : "https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=",
+"referer"		:	"https://www.inwiptv.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
 {"name"		: "     FwSon",
 "image"		: "https://dl.dropboxusercontent.com/scl/fi/uj59reuo794iynvf4ohtj/FwSov.png?rlkey=hct5khxjtutt539r9e7c22kqg&st=8ejr9t44&dl=0",  
 "url"			: "https://www.inwiptv.com/player_demo.php?channel=94898",
@@ -369,6 +383,21 @@ url:"https://live.thaitvstream.com/play/thainews/index.m3u8",
 "userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "info"		: 	"", 
 "desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+{"name"		: "FWTOON",  
+"image"		: "https://www.fileinw.com/postor/20240429213651FWTOON.jpg",  
+"url"  : "https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=",
+"playInNatPlayer"	:	"true"
+},
+{"name"		: "FWDOC",  
+"image"		: "https://www.fileinw.com/postor/20240617204638FWDoc.jpg",  
+"url"  : "https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=",
+"playInNatPlayer"	:	"true"
+},
+{"name"		: "FWSPORT",  
+"image"		: "https://www.fileinw.com/postor/20240429213640FWsport.jpg",  
+"url"  : "https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=",
 "playInNatPlayer"	:	"true"
 },
 
