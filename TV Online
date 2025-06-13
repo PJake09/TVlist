@@ -355,9 +355,7 @@ url:"https://live.thaitvstream.com/play/thainews/index.m3u8",
 {"name"		: "FwMov",  
 "image"		: "https://www.fileinw.com/postor/20240429213309FWMOV.jpg",  
 "url"  : "https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=",
-"referer"		:	"https://www.inwiptv.com/",
-"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"desktop"		:	"true","playInNatPlayer"	:	"true"
+"playInNatPlayer"	:	"true"
 },
 {"name"		: "     FwMov",  
 "image"		: "https://dl.dropboxusercontent.com/scl/fi/j0r52fhvwfxqt0gitcanf/FwMov.png?rlkey=tw0ye1uxi9c3gitnuuebpjdjj&st=lu40vsvq&dl=0",  
@@ -369,11 +367,8 @@ url:"https://live.thaitvstream.com/play/thainews/index.m3u8",
 "playInNatPlayer"	:	"true"
 },
 {"name"		: "FwSon",
-"image"		: "https://www.fileinw.com/postor/20240429213651FWTOON.jpg",  
+"image"		: "https://www.fileinw.com/postor/20240429213326FWSOV.jpg",  
 "url"  : "https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=",
-"referer"		:	"https://www.inwiptv.com/",
-"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"desktop"		:	"true",
 "playInNatPlayer"	:	"true"
 },
 {"name"		: "     FwSon",
