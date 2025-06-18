@@ -38,6 +38,36 @@
  "import":"true"
 },
 {
+ "name": "หนังซอมบี้ Zombie Movie",
+ "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย",
+ "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
+ "image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+ "url": "https://raw.githubusercontent.com/9Pichapob/Movies/refs/heads/main/Zombie",
+ "import":"true"
+},
+{
+ "name": "หนังไซไฟ",
+ "author": "เจียว เจียว",
+ "info": "เฉพาะเมื่อเราให้ความสุขโดยไม่ลังเลหรือคิดจะได้กำไรเราสามารถรู้ได้อย่างแท้จริงว่าความรักหมายถึงอะไร😊",
+ "image": "https://master.server-cdn-streaming.com/uploads/web/1/20210725200620483V.png",
+ "url": "https://raw.githubusercontent.com/9Pichapob/Movies/refs/heads/main/Sci-fi%20movies",
+ "import":"true"
+},
+{
+ "name": "หนังดีที่ควรดู",
+ "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย",
+ "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
+ "image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+ "url": "https://raw.githubusercontent.com/9Pichapob/Movies/refs/heads/main/หนังดี",
+ "import":"true"
+},
+{
+ "name": "หนังชีวประวัติ เรื่องจริง",
+ "image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
+ "url": "https://raw.githubusercontent.com/9Pichapob/Movies/refs/heads/main/true%20story",
+ "import":"true"
+},
+{
   "name": "Movies 1970-2021",
   "author": "อุ๋ง อุ๋ง อัพวันที่ 06/07/2023",
   "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
