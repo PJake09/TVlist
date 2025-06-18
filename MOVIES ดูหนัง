@@ -18,6 +18,12 @@
 "import":"true"
 },
 {
+"name": "หนัง NETFLIX",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRecxGJ3B7n0_JpOnL9WpfFC8eE7ixQTGjcfQ&s",
+"url": "https://raw.githubusercontent.com/9Pichapob/Movies/refs/heads/main/NETFLIX",
+"import":"true"
+},
+{
 "name": "รวมหนังผีสยอง",
 "image": "https://www.movies-d.com/wp-content/uploads/2022/07/6zwXcXh.webp",
 "url": "https://raw.githubusercontent.com/9jaketae/Playlist/refs/heads/main/Horror%20movie",
