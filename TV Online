@@ -8,6 +8,97 @@
                 "url": "https://raw.githubusercontent.com/PJake09/TVlist/refs/heads/main/TV%20Online",
                  "import": false },
 
+   {
+     "name": "THAIFILM",
+     "image": "https://api.rentm3u8.com/images/png/sd-thaifilm.png",
+     "url": "https://e110.google-streams.com:9310/v5/nRy-CAnyzkw-ge3RpdZMPA/1753451834/ad462f66329fd4360151392f7850b0cc/mNUIub44mryH1LxuMEqDdw/1753462514/live/vx-origin/sd-thaifilm_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "ASIAN MORE",
+     "image": "https://api.rentm3u8.com/images/png/hd-asianmore.png",
+     "url": "https://s2x.apple-streams.com:9302/v5/brsdM7hbBHZ9KzN82I7gag/1753451946/4beae989cc8f0ea9247d2f2dca262f83/FDrIBQLHSh6VWA-ayeRMAQ/1753462626/live/vx-origin/hd-asianmore_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Film HD",
+     "image": "https://api.rentm3u8.com/images/png/hd-tfilm.png",
+     "url": "https://s3x.apple-streams.com:9314/v5/dJ78n1UzGL9rOz29NkdwBg/1753452040/ad462f66329fd4360151392f7850b0cc/7hdnWHyrcRnOnjFKMkaUXA/1753462720/live/vx-origin/hd-tfilm_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Film HD2",
+     "image": "https://api.rentm3u8.com/images/png/hd-tfilm2.png",
+     "url": "https://e105.google-streams.com:9305/v5/DsGnRV0paqUdW5iqDsMSvw/1753452093/4beae989cc8f0ea9247d2f2dca262f83/gFoAprfL2ONWUTG18cHckQ/1753462773/live/vx-origin/hd-tfilm2_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "WANER TV",
+     "image": "https://api.rentm3u8.com/images/png/hd-warnertv.png",
+     "url": "https://cdn5555.google-streams.com:9310/v5/Nh2pAenOV9i2H5yRXEA9pA/1753452271/ad462f66329fd4360151392f7850b0cc/Xi-SXoVr_kyEoAwqpk9jdg/1753462951/live/vx-origin/hd-warnertv_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "AXN",
+     "image": "https://api.rentm3u8.com/images/png/hd-axn.png",
+     "url": "https://cdn5555.google-streams.com:9301/v5/T1IOMwk8W-gbj_3Kgl63aw/1753452345/4beae989cc8f0ea9247d2f2dca262f83/0jeXSrfAlgaC4y2r576bBQ/1753463025/live/vx-origin/hd-axn_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Dream Works",
+     "image": "https://api.rentm3u8.com/images/png/hd-dreamworks.png",
+     "url": "https://cdn1337.google-streams.com:9306/v5/fcGj9IDcRAcdCfd0Xn-i5Q/1753452400/ad462f66329fd4360151392f7850b0cc/olnB-JCtb1aoAgMFKCsMPQ/1753463080/live/vx-origin/hd-dreamworks_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "X-ZYTE",
+     "image": "https://api.rentm3u8.com/images/png/hd-xzyte.png",
+     "url": "https://e107.google-streams.com:9307/v5/kgZBBUWr0ATzZkA4XvYLoQ/1753452520/4beae989cc8f0ea9247d2f2dca262f83/LdEGtGndR6YIsHuWgY3pcw/1753463200/live/vx-origin/hd-xzyte_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "HISTORY",
+     "image": "https://api.rentm3u8.com/images/png/hd-history.png",
+     "url": "https://e113.google-streams.com:9313/v5/3sVGPn0RnzkMz9_T7DYHTw/1753452809/ad462f66329fd4360151392f7850b0cc/eZHLjerDJknzvUYFXchMXw/1753463489/live/vx-origin/hd-history_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Discovery",
+     "image": "https://api.rentm3u8.com/images/png/sd-discovery.png",
+     "url": "https://s2x.apple-streams.com:9313/v5/548ot5FdlQqJdFC9D8nVTw/1753452909/4beae989cc8f0ea9247d2f2dca262f83/NbaEEPrk1JWSsSgd_eYa0g/1753463589/live/dx-origin/sd-discovery_480/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "Explore Wild",
+     "image": "https://api.rentm3u8.com/images/png/sd-expwild.png",
+     "url": "https://cdn3099.google-streams.com:9306/v5/KaMcAsPcM34I7jZQ9CVVng/1753453013/ad462f66329fd4360151392f7850b0cc/sV-uW0zb0U2FGqfTctAGSA/1753463693/live/vx-origin/sd-expwild_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "food network Asia",
+     "image": "https://api.rentm3u8.com/images/png/hd-food.png",
+     "url": "https://s3x.apple-streams.com:9308/v5/9BKJNClvjKFRlU4BPCXFeA/1753453134/4beae989cc8f0ea9247d2f2dca262f83/MZX4-b-cr82bBcttIgHtzw/1753463814/live/vx-origin/hd-food_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "asian food channel",
+     "image": "https://api.rentm3u8.com/images/png/sd-asianfood.png",
+     "url": "https://cdn5555.google-streams.com:9305/v5/lvD0Blpj6cI1fvebgRyHgQ/1753453213/ad462f66329fd4360151392f7850b0cc/127PZ3dXi5W3hGbIeuCqdg/1753463893/live/dx-origin/sd-asianfood_480/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
     {
      "name": "MONO MAX1",
      "image": "https://api.rentm3u8.com/images/png/th-monomax01.png",
