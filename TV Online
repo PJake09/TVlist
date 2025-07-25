@@ -7,7 +7,176 @@
                 "image": "https://cdn.dribbble.com/users/442750/screenshots/2196790/3.gif",
                 "url": "https://raw.githubusercontent.com/PJake09/TVlist/refs/heads/main/TV%20Online",
                  "import": false },
-           
+
+    {
+     "name": "MONO MAX1",
+     "image": "https://api.rentm3u8.com/images/png/th-monomax01.png",
+     "url": "https://cdn4321.google-streams.com:9301/v5/glsOGDcuGoTm0dYWuk_-hw/1753442116/ad462f66329fd4360151392f7850b0cc/S8x0MksQmQkQEyewc14xjg/1753452796/live/lx-origin/th-monomax01_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "MONO MAX1 (backup)",
+     "image": "https://api.rentm3u8.com/images/png/th-monomax01bkp.png",
+     "url": "https://e105.google-streams.com:9305/v5/oCSIEps_hPKzfIUBp95Ezw/1753442397/4beae989cc8f0ea9247d2f2dca262f83/B1KwZBhw1L6ZhtAKoNoZzw/1753453077/live/lx-origin/th-monomax01bkp_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "MONO MAX2",
+     "image": "https://api.rentm3u8.com/images/png/th-monomax02.png",
+     "url": "https://cdn4321.google-streams.com:9312/v5/k_2LeuVPgocRKKeSw2frKQ/1753442551/ad462f66329fd4360151392f7850b0cc/7PpgJdTEPKAHdEm3gb_0jA/1753453231/live/vx-origin/th-monomax02_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "beIN1",
+     "image": "https://api.rentm3u8.com/images/png/epl-bein1.png",
+     "url": "https://e112.google-streams.com:9312/v5/rKxhgmUwSiizBuDUZcZvcQ/1753443679/ad462f66329fd4360151392f7850b0cc/EHEUUqpoak9feLGEhaz3Ow/1753454359/live/dx-origin/dooball66-bein1x_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "beIN1 (backup)",
+     "image": "https://api.rentm3u8.com/images/png/th-bein1.png",
+     "url": "https://e112.google-streams.com:9312/v5/6GyGQeOIPSDzvao4tzJciA/1753442272/4beae989cc8f0ea9247d2f2dca262f83/J7eepD-Tz_mG4Nd_kr7gow/1753452952/live/vx-origin/th-bein1_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "beIN2",
+     "image": "https://api.rentm3u8.com/images/png/epl-bein2.png",
+     "url": "https://cdn2077.google-streams.com:9308/v5/tWPwQLvs4d9HYzpXjrdrrg/1753444085/4beae989cc8f0ea9247d2f2dca262f83/jHfHIUtmJZs5wOUNZs6Tjg/1753454765/live/vx-origin/epl-bein2_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "beIN3",
+     "image": "https://api.rentm3u8.com/images/png/epl-bein3.png",
+     "url": "https://s2.apple-streams.com:9307/v5/gvym6TMBz3iyKFUdFRzxhA/1753444132/ad462f66329fd4360151392f7850b0cc/_fHWaC5XA27goTcv2fBW4w/1753454812/live/vx-origin/dooball66-bein3x_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "beIN8",
+     "image": "https://api.rentm3u8.com/images/png/epl-bein8.png",
+     "url": "https://e113.google-streams.com:9313/v5/VDnYtAEV2sbQQE_wjRuyLw/1753444212/4beae989cc8f0ea9247d2f2dca262f83/nsxElBQJmrhTtaQcG9-6UA/1753454892/live/vx-origin/epl-bein8_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "beIN9",
+     "image": "https://api.rentm3u8.com/images/png/epl-bein9.png",
+     "url": "https://e107.google-streams.com:9307/v5/5I4mYDXrZUjnLQUf50WW3w/1753444268/ad462f66329fd4360151392f7850b0cc/siL0ChXNVjBG9dUt-7LUFw/1753454948/live/vx-origin/epl-bein9_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "beIN10",
+     "image": "https://api.rentm3u8.com/images/png/epl-bein10.png",
+     "url": "https://cdn5555.google-streams.com:9311/v5/LBVWIBkCa8qbSSSW9kgSDQ/1753443793/ad462f66329fd4360151392f7850b0cc/GH0LlKynoS3zaAOI0TplsA/1753454473/live/vx-origin/epl-bein10_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "sport HD",
+     "image": "https://api.rentm3u8.com/images/png/hd-tsport1.png",
+     "url": "https://s3.apple-streams.com:9309/v5/y2R3b9HwBPcdp3VOhan-rg/1753444750/4beae989cc8f0ea9247d2f2dca262f83/HpuSgkv-wYAwRtNrJRZm0g/1753455430/live/vx-origin/dooball66-tsporthd1x_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "sport HD2",
+     "image": "https://api.rentm3u8.com/images/png/th-tsporthd2.png",
+     "url": "https://cdn5555.google-streams.com:9302/v5/m2-9YEVOpj-5RqQua5-b_Q/1753443505/4beae989cc8f0ea9247d2f2dca262f83/YJPIkVl-fd53JDTa51LDDA/1753454185/live/vx-origin/th-tsporthd2_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "sport HD2",
+     "image": "https://api.rentm3u8.com/images/png/hd-tsport2.png",
+     "url": "https://s2.apple-streams.com:9309/v5/TmyaJmgxICsJJabAbJbgMQ/1753444806/ad462f66329fd4360151392f7850b0cc/bxfVcPUedWs3nZHzIhu2lQ/1753455486/live/vx-origin/dooball66-tsporthd2x_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "sport HD3",
+     "image": "https://api.rentm3u8.com/images/png/hd-tsport3.png",
+     "url": "https://e110.google-streams.com:9310/v5/G7jY_b237chDR_NReBPSgQ/1753444876/4beae989cc8f0ea9247d2f2dca262f83/yl3_j5pQcfE-eu7QgaXBrQ/1753455556/live/vx-origin/dooball66-tsporthd3x_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "sport HD4",
+     "image": "https://api.rentm3u8.com/images/png/hd-tsport4.png",
+     "url": "https://cdn2077.google-streams.com:9310/v5/oudFf9rHcCph2tZS7tgEmQ/1753444924/ad462f66329fd4360151392f7850b0cc/kPDF34kaWyw8iqGsXDF_sw/1753455604/live/vx-origin/hd-tsport4_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "SPOtv",
+     "image": "https://api.rentm3u8.com/images/png/hd-spotv.png",
+     "url": "https://e106.google-streams.com:9306/v5/N0Wmv6JIpiqPe_QKYBD4vA/1753441247/ad462f66329fd4360151392f7850b0cc/VwHc3fRSejEY0QQHk7-5gw/1753451927/live/vx-origin/dooball66-spotvx_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "SPOtv (backup)",
+     "image": "https://api.rentm3u8.com/images/png/th-spotv1.png",
+     "url": "https://e108.google-streams.com:9308/v5/VNzV4K2jwIYpP2X79cmH4w/1753442801/ad462f66329fd4360151392f7850b0cc/Wkgph9_bU76vzvWrv0U_DA/1753453481/live/vx-origin/th-spotv1_720/playlist.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "SPOtv2",
+     "image": "https://api.rentm3u8.com/images/png/hd-spotv2.png",
+     "url": "https://e107.google-streams.com:9307/v5/h85cE96jPyLCn32Z1GnyYw/1753441539/ad462f66329fd4360151392f7850b0cc/jEzjSGtdOdwAn2c4uQZwHA/1753452219/live/vx-origin/dooball66-spotv2x_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "sport 5",
+     "image": "https://api.rentm3u8.com/images/png/th-tsport5.png",
+     "url": "https://e114.google-streams.com:9314/v5/d9kSTOw3_0yo5O5X_IF63A/1753443193/4beae989cc8f0ea9247d2f2dca262f83/L03szfvkKQWUSeSgQpgguw/1753453873/live/vx-origin/th-tsport5_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "sport 7",
+     "image": "https://api.rentm3u8.com/images/png/th-tsport7.png",
+     "url": "https://cdn2077.google-streams.com:9305/v5/QVz_cqY1tbQjiaBEs4TTxA/1753443366/ad462f66329fd4360151392f7850b0cc/MMKBjA4L9MMQT7kstnvhyA/1753454046/live/vx-origin/th-tsport7_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "GOLF CHANNEL",
+     "image": "https://api.rentm3u8.com/images/png/hd-golf2.png",
+     "url": "https://cdn5555.google-streams.com:9309/v5/rnMRO4Rn44sJJbegyIHVxw/1753444628/4beae989cc8f0ea9247d2f2dca262f83/NQIEWXUpRzkhr4uuYap7VQ/1753455308/live/vx-origin/hd-golf2_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "TENNIS HD",
+     "image": "https://api.rentm3u8.com/images/png/hd-tennis.png",
+     "url": "https://e114.google-streams.com:9314/v5/qZc3FV-AI-2ACao_uMqoYQ/1753444678/ad462f66329fd4360151392f7850b0cc/yO4Z-YJeEJJ8o2v50Y5_tg/1753455358/live/vx-origin/hd-tennis_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "sport 5",
+     "image": "https://api.rentm3u8.com/images/png/sd-tsport5.png",
+     "url": "https://e105.google-streams.com:9305/v5/HWOIAGQfVCjwkvWTO1hOaw/1753444975/4beae989cc8f0ea9247d2f2dca262f83/c1rzMchZDYKjFdSjhOOWWA/1753455655/live/vx-origin/dooball66-tsport5_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+     "name": "sport 7",
+     "image": "https://api.rentm3u8.com/images/png/sd-tsport7.png",
+     "url": "https://e103.google-streams.com:9303/v5/N_9AcUiDcwSGNQbzcz8UiQ/1753445025/ad462f66329fd4360151392f7850b0cc/RojRZjRvLD8o4YqrxxPAVA/1753455705/live/vx-origin/dooball66-tsport7_720/chunks.m3u8",
+     "referer": "https://embed-rr.rentm3u8.com/",
+     "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+     },
+
 {
 "name": " TRUE THAIFILM",
 "image": "https://img2.pic.in.th/pic/CHI-cropd772890a7e272794.png",
