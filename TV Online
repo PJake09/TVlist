@@ -1485,6 +1485,193 @@ url:"https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
 "playInNatPlayer": "true",
 "epgId": "true"
-},       
+},    
+{"name":"Live-A",
+"image":"https://s.imgz.io/2025/07/13/live19813aa11bf71ab56.png",
+"url": "https://slave02.appball.vip/hls/sporttv2.m3u8",
+"playInNatPlayer":"true"},
+
+{"name":"LiveD",
+"image":"https://s.imgz.io/2025/07/13/live19813aa11bf71ab56.png",
+"url": "https://cdnsv1.bunnycdncloud.com/andaman888th/dxsport1/playlist.m3u8",
+"referer": "https://www.andaman888th.net/",
+"playInNatPlayer":"true"},
+
+{"name":"Live-B",
+"image":"https://s.imgz.io/2025/07/13/live19813aa11bf71ab56.png",
+"url": "https://cdn1.googlecdn.live/4k/dklsport1/chunks.m3u8",
+"referer": "https://footballsod.live/",
+"playInNatPlayer": "true"},
+
+{"name":"Live-C",
+"image":"https://s.imgz.io/2025/07/13/live19813aa11bf71ab56.png",
+"url": "https://dolive.thaim3u.com/xstream/football-play-1/playlist.m3u8",
+"referer": "https://345ball.com/",
+"playInNatPlayer": "true"},
+
+{"name":"LiveD",
+"image":"https://s.imgz.io/2025/07/13/live19813aa11bf71ab56.png",
+"url": "https://cdnsv1.bunnycdncloud.com/andaman888th/dxsport1/playlist.m3u8",
+"referer": "https://www.andaman888th.net/",
+"playInNatPlayer":"true"},
+
+{"name":"Live-E",
+"image":"https://s.imgz.io/2025/07/13/live19813aa11bf71ab56.png",
+"url": "https://168dooball.net/live-stream/?mode=ball&ch=monomax2",
+"playInNatPlayer":"true"},
+
+{"name":"Live-F",
+"image":"https://s.imgz.io/2025/07/13/live19813aa11bf71ab56.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=220&tv=DKLSport1",
+"playInNatPlayer":"true"},
+
+{"name":"Live-G",
+"image":"https://s.imgz.io/2025/07/13/live19813aa11bf71ab56.png",
+"url":"https://dookeela.live/live-tv/sporttv2",
+"playInNatPlayer":"true"},
+
+{"name":"Live-H",
+"image":"https://s.imgz.io/2025/07/13/live19813aa11bf71ab56.png",
+"url": "https://www.ball24.tv/allchannel/?id=monomax2",
+"playInNatPlayer":"true"},
+
+{"name":"Live-I",
+"image":"https://s.imgz.io/2025/07/13/live19813aa11bf71ab56.png",
+"url": "https://cdn1.googlecdn.live/4k/dklsport1/chunks.m3u8",
+"referer": "https://footballsod.live/",
+"playInNatPlayer": "true"},
+
+{"name":"Live-J",
+"image":"https://s.imgz.io/2025/07/13/live19813aa11bf71ab56.png",
+"url": "https://www.inwiptv.com/player_demo.php?channel=89782",
+"playInNatPlayer": "true"},
+
+{"name":"LFC TV-A🇬🇧",
+"image":"https://img2.pic.in.th/pic/lfctvdoo.png",
+"url":"https://dookeela.live/live-tv/lfctv",
+"playInNatPlayer": "true"},
+
+{"name":"LFC TV-B🇬🇧",
+"image":"https://img2.pic.in.th/pic/lfctvdoo.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=130&tv=LFCTV",
+"playInNatPlayer":"true"},
+
+{"name":"LFC TV-C🇬🇧",
+"image":"https://img2.pic.in.th/pic/lfctvdoo.png",
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175216&extension=ts",
+"playInNatPlayer": "true"},
+
+{"name":"LFC TV-D🇬🇧",
+"image":"https://img2.pic.in.th/pic/lfctvdoo.png",
+"url":"http://tv.greatstar.me:80/play/live.php?mac=00:1a:79:a7:8d:94&stream=910647&extension=ts",
+"playInNatPlayer": "true"},
+
+{"name":"LFC TV-E🇬🇧",
+"image":"https://img2.pic.in.th/pic/lfctvdoo.png",
+"url":"http://45.139.122.199:2095/play/live.php?mac=10:27:BE:15:AD:91&stream=117748&extension=ts",
+"playInNatPlayer": "true"},
+
+{"name":"LFC TV-F🇬🇧",
+"image":"https://img2.pic.in.th/pic/lfctvdoo.png",
+"url":"https://168dooball.net/live-stream/?mode=ball&ch=lfctv",
+"playInNatPlayer":"true"},
+
+{"name":"MUTV-A🇬🇧",
+"image":"https://img2.pic.in.th/pic/mutvdoo.png",
+"url":"https://goal-th.com/ช่องรายการทีวี/?id=84&tv=MUTV",
+"playInNatPlayer": "true"},
+
+{"name":"MUTV-B🇬🇧",
+"image":"https://img2.pic.in.th/pic/mutvdoo.png",
+"url":"https://cdnsv1.bunnycdncloud.com/andaman888th/mutv/playlist.m3u8",
+"referer": "https://www.andaman888th.net/",
+"playInNatPlayer": "true"},
+
+{"name":"MUTV-C🇬🇧",
+"image":"https://img2.pic.in.th/pic/mutvdoo.png",
+"url":"https://168dooball.net/live-stream/?mode=ball&ch=mutv",
+"playInNatPlayer": "true"},
+
+{"name":"MUTV-D🇬🇧",
+"image":"https://img2.pic.in.th/pic/mutvdoo.png",
+"url":"http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=175208&extension=ts",
+"playInNatPlayer": "true"},
+
+{"name":"MUTV-E🇬🇧",
+"image":"https://img2.pic.in.th/pic/mutvdoo.png",
+"url":"https://www.ball24.tv/allchannel/?id=mutv",
+"playInNatPlayer": "true"},
+
+{"name":"MUTV-F🇬🇧",
+"image":"https://img2.pic.in.th/pic/mutvdoo.png",
+"url":"http://cord-cutter.net:8080/FC86sA/631284/53717",
+"playInNatPlayer": "true"},
+
+{"name":"MUTV-G🇬🇧",
+"image":"https://img2.pic.in.th/pic/mutvdoo.png",
+"url":"http://1tv41.icu:8080/Corey1/EF5m9t7VRB/53717",
+"playInNatPlayer": "true"},
+
+{"name":"Astro Premier1-A🇲🇾",
+"image":"https://i.imgur.com/wDtECAe.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=537&tv=AstroPremierLeague",
+"playInNatPlayer": "true"},
+
+{"name":"Astro Premier1-B🇲🇾",
+"image":"https://i.imgur.com/wDtECAe.png",
+"url":"https://dookeela.live/live-tv/astropremierleague",
+"playInNatPlayer":"true"},
+
+{"name":"Astro Premier1-C🇲🇾",
+"image":"https://i.imgur.com/wDtECAe.png",
+"url": "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:15:AD:91&stream=115615&extension=ts",
+"playInNatPlayer":"true"},
+
+{"name":"Astro Premier1-D🇲🇾",
+"image":"https://i.imgur.com/wDtECAe.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341538&extension=ts",
+"playInNatPlayer": "true"},
+
+{"name":"Astro Football-A🇲🇾",
+"image":"https://img5.pic.in.th/file/secure-sv1/astrofootball.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=534&tv=AstroFootball",
+"playInNatPlayer": "true"},
+
+{"name":"Astro Football-B🇲🇾",
+"image":"https://img5.pic.in.th/file/secure-sv1/astrofootball.png",
+"url":"https://dookeela.live/live-tv/astrofootball",
+"playInNatPlayer":"true"},
+
+{"name":"Astro Football-C🇲🇾",
+"image":"https://img5.pic.in.th/file/secure-sv1/astrofootball.png",
+"url": "http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341542&extension=ts",
+"playInNatPlayer": "true"},
+
+{"name":"Astro Football-D🇲🇾",
+"image":"https://img5.pic.in.th/file/secure-sv1/astrofootball.png",
+"url": "http://45.139.122.199:2095/play/live.php?mac=10:27:BE:15:AD:91&stream=115618&extension=ts",
+"playInNatPlayer": "true"},
+
+{"name": "SPORT TV1🇵🇹",
+"image": "https://s.imgz.io/2025/07/13/SPORTTV1327b308f3ce31181.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/sporttv1/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
+
+{"name": "SPORT TV2🇵🇹",
+"image": "https://img2.pic.in.th/pic/SPORTTV2.png",
+"url": "https://cdn1.googlecdnforstreaming.live/live/sporttv2/chunks.m3u8",
+"referer": "https://warpdooball.net/",
+"playInNatPlayer": "true"},
+
+{"name":"ASEAN Mandiri Cup",
+"image":"https://img2.pic.in.th/pic/AseanU23_01.png",
+"url":"https://dookeela.live/live-tv/asean-u23-mandiri-cup-1/",
+"playInNatPlayer": "true"},
+
+{"name":"ASEAN Mandiri Cup",
+"image":"https://img2.pic.in.th/pic/AseanU23_01.png",
+"url":"https://dookeela.live/live-tv/asean-u23-mandiri-cup-2/",
+"playInNatPlayer": "true"},
 ]                                                    
 }
