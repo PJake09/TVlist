@@ -10,6 +10,256 @@
 
 {
 "name": " TRUE THAIFILM",
+"image": "https://img5.pic.in.th/file/secure-sv1/1085f5f6433816d8afe1ea810e4d0ee8.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=307&tv=TrueThaiFilm",
+"referer": "https://dookeela.live",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.52",
+"playInNatPlayer": "true"
+},             
+{
+"name": " TRUE THAIFILM",
+"image": "https://img2.pic.in.th/pic/CHI-cropd772890a7e272794.png",
+"url": "https://dookeela.live/live-tv/truethaifilm",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.51",
+"playInNatPlayer": "true"
+},
+{
+name:"True Thai Film",
+image:"https://dookeela.live/uploads/1706539896.png",
+url:"https://dookeela.live/live-tv/truethaifilm",
+"referer": "",
+"playInNatPlayer": "true"
+},
+{
+"name": "TRUE ASIANMORE",
+"image": "https://img2.pic.in.th/pic/ASIAN.png", 
+"url" : "https://dookeela.live/live-tv/trueasianmore",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.34",
+"playInNatPlayer": "true"
+},        
+{
+"name": "TRUE ASIANMORE",
+"image": "https://dookeela.live/uploads/1719205850.png", 
+"url" : "https://goal-th.com/ช่องรายการทีวี/?id=405&tv=TrueAsianMore",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.35",
+"playInNatPlayer": "true"
+},        
+{
+"name": "TRUE FILMASIA",
+"image": "https://img2.pic.in.th/pic/li.png", 
+"url": "https://dookeela.live/live-tv/truefilmasia",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.44",
+"playInNatPlayer": "true"
+},
+{
+"name": "TRUE FILMASIA",
+"image": "https://dookeela.live/uploads/1719205705.png", 
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=404&tv=TrueFilmAsia",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.45",
+"playInNatPlayer": "true"
+},
+{
+"name": "TRUE FILMASIA",
+"image": "https://img2.pic.in.th/pic/li.png", 
+"url": "https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilmasia.m3u8",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.47",
+"playInNatPlayer": "true"
+},
+{
+"name": "CCM",
+"image": "https://img2.pic.in.th/pic/CCM.png",
+"url": "https://dookeela.live/live-tv/ccm",
+"referer": "https://dookeela.live/",
+ "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.37",
+"playInNatPlayer": "true"
+},          
+{
+"name": "TRUE SERIES",
+"image": "https://img5.pic.in.th/file/secure-sv1/ser.png",
+"url": "https://dookeela.live/live-tv/trueseries",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.36",
+"playInNatPlayer": "true"
+},       
+{
+"name": "TRUE FILMHD1",
+"image": "https://img2.pic.in.th/pic/f1.png",
+"url": "https://dookeela.live/live-tv/truefilm1",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.36",
+"playInNatPlayer": "true"
+},       
+{
+"name": "TRUE FILMHD2",
+"image":"https://img2.pic.in.th/pic/f2ba22c43b1706d6ae.png",
+"url": "https://dookeela.live/live-tv/truefilm2",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.36",
+"playInNatPlayer": "true"
+},        
+{
+"name":"TRUE MOVIEHITE",
+"image": "https://img2.pic.in.th/pic/LIFE-crop.png",
+"url": "https://dookeela.live/live-tv/truemoviehits",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.36",
+"playInNatPlayer": "true"
+},
+{
+"name": "AXN HD",
+"image": "https://img2.pic.in.th/pic/11ebcc476361449be1.png",
+"url": "https://dookeela.live/live-tv/axn",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.36",
+"playInNatPlayer": "true"
+},       
+{
+"name": "AXN HD",
+"image": "https://dookeela.live/uploads/1719897010.png",
+"url": "https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueAXN.m3u8",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.67",
+"playInNatPlayer": "true"
+},     
+{
+"name":"WANER TV",
+"image":"https://img5.pic.in.th/file/secure-sv1/we.png",
+ "url": "https://dookeela.live/live-tv/warnertv",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.34",
+"playInNatPlayer": "true"
+},
+{
+"name": "PARAMOUNT NETWORK",
+"image": "https://img5.pic.in.th/file/secure-sv1/2-crop.png",
+"url": "https://dookeela.live/live-tv/paramount-network",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.50",
+"playInNatPlayer": "true"
+},       
+{
+"name": "Universal",
+"image": "https://i.ibb.co/MxZHkhvV/logo-universal.png", 
+"url" : "http://49.0.64.96:8007/H-Channel",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.3",
+"playInNatPlayer": "true"
+},        
+{
+"name": "HBO HD ",
+"image": "https://i.ibb.co/6v0dDhD/vbs.png",
+"url": "https://dookeela.live/live-tv/hbo#",
+"referer": "https://dookeela.live/live-tv",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
+{
+"name": "HBO HITS",
+"image": "https://i.ibb.co/vP3hkjH/hhit.png",
+"url": "https://dookeela.live/live-tv/hbo-hits",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.45",
+"playInNatPlayer": "true"
+},
+{
+"name": "HBO FAMILY",
+"image": "https://i.ibb.co/F8P2mxK/cccc.png",
+"url": "https://dookeela.live/live-tv/hbo-family",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.45",
+"playInNatPlayer": "true"
+},
+{
+"name":"HBOSIGNATURE",
+"image":"https://i.ibb.co/gM7NfQ4/SS.png",
+"url":"https://dookeela.live/live-tv/hbo-signature",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.45",
+"playInNatPlayer": "true"
+},
+{
+"name":"CINEMAX HD",
+"image":"https://i.ibb.co/tz61VMJ/CINE.png",
+"url":"https://dookeela.live/live-tv/cinemax",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.45",
+"playInNatPlayer": "true"
+}, 
+{
+"name": "iQIYI",
+"image": "https://img5.pic.in.th/file/secure-sv1/123def0dae26813f20a.png",
+"url": "https://dookeela.live/live-tv/iqiyi",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.45",
+"playInNatPlayer": "true"
+},       
+{
+"name": "ROCK ACTION HD",
+"image": "https://img5.pic.in.th/file/secure-sv1/XX.png", 
+"url": "https://dookeela.live/live-tv/rock-action", 
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.45",
+"playInNatPlayer": "true"
+},       
+{
+"name": "ROCK ENTERTAINMENT",
+"image": "https://img2.pic.in.th/pic/1234f66eadb572f3d1d4.png", 
+"url": "https://dookeela.live/live-tv/rock-entertainment",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.45",
+"playInNatPlayer": "true"
+},       
+{
+"name": "HITS MOVIES",
+"image": "https://img2.pic.in.th/pic/2-crop.png", 
+"url": "https://dookeela.live/live-tv/hits-movies#",
+"referer": "https://dookeela.live/live-tv/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+}, 
+{
+"name": "HITS",
+"image": "https://img2.pic.in.th/pic/1230014980d73fd46e6.png", 
+"url": "https://dookeela.live/live-tv/hits",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.45",
+"playInNatPlayer": "true"
+}, 
+{
+"name":"3BB ASIAN",
+"image":"https://img5.pic.in.th/file/secure-sv1/3BBA.png",
+"url":"https://dookeela.live/live-tv/3bbasian",
+  "referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.45",
+"playInNatPlayer": "true"
+},         
+{
+"name":"MONO PLUS",
+"image":"https://img5.pic.in.th/file/secure-sv1/MONO.png",
+"url": "https://dookeela.live/live-tv/mono29plus",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.45",
+"playInNatPlayer": "true"
+},
+{
+"name":"TVN",
+"image":"https://img2.pic.in.th/pic/tvn8c4349fcab222408.png",
+"url": "https://dookeela.live/live-tv/tvn-indonesia",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.45",
+"playInNatPlayer": "true"
+},
+
+
+
+{
+"name": " TRUE THAIFILM",
 "image": "https://img2.pic.in.th/pic/CHI-cropd772890a7e272794.png",
 "url": "https://dookeela.live/live-tv/truethaifilm#",
 "referer": "https://dookeela.live/live-tv/",
@@ -1333,159 +1583,6 @@ url:"https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138
 "playInNatPlayer": "true"
 },         
 
- {
-"name": "BEIN1",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/bein1#",
-"referer": "https://dookeela.live/live-tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "BEIN2",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/bein2#",
-"referer": "https://dookeela.live/live-tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "BEIN3",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/bein3#",
-"referer": "https://dookeela.live/live-tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "TRUE TENNIS",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/truetennis#",
-"referer": "https://dookeela.live/live-tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
-{
-"name": "T Sports7",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8",
-"referer": "",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true"
-},
- {
-"name": "GOLF",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/golf#",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "SPOTV1",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/spotv#",
-"referer": "https://dookeela.live/live-tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "SPOTV2",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/spotv2#",
-"referer": "https://dookeela.live/live-tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "NBA",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/nba#",
-"referer": "https://dookeela.live/live-tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "NFL",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/nfl#",
-"referer": "https://dookeela.live/live-tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
-
-{
-"name": "WWE",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/wwe#",
-"referer": "https://dookeela.live/live-tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "ARENA SPORT1",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/arenasport1#",
-"referer": "https://dookeela.live/live-tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "ARENA SPORT2",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/arenasport2#",
-"referer": "https://dookeela.live/live-tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "ARENA SPORT3",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/arenasport3#",
-"referer": "https://dookeela.live/live-tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
- {
-"name": "ARENA SPORT4",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/arenasport4#",
-"referer": "https://dookeela.live/live-tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
-{
-"name": "FIGHT SPORTS",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/fight-sports#",
-"referer": "https://dookeela.live/live-tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true",
-"epgId": "true"
-},
-{
-"name": "MUTV",
-"image": "https://img5.pic.in.th/file/secure-sv1/images-crop.png",
-"url": "https://dookeela.live/live-tv/mutv#",
-"referer": "https://dookeela.live/live-tv/",
-"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
-"playInNatPlayer": "true",
-"epgId": "true"
-},    
 {"name":"Live-A",
 "image":"https://s.imgz.io/2025/07/13/live19813aa11bf71ab56.png",
 "url": "https://slave02.appball.vip/hls/sporttv2.m3u8",
