@@ -2,7 +2,8 @@
          "name": "TV Online",
          "image": "https://img5.pic.in.th/file/secure-sv1/Jake2.png",
          "url":"https://raw.githubusercontent.com/PJake09/TVlist/refs/heads/main/TV%20Online",
-         "stations": [ 
+         "groups": [
+
                 {"name": "♥ Refresh ♥",
                 "image": "https://cdn.dribbble.com/users/442750/screenshots/2196790/3.gif",
                 "url": "https://raw.githubusercontent.com/PJake09/TVlist/refs/heads/main/TV%20Online",
