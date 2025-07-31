@@ -6,10 +6,9 @@
 
 
 
-
 {
  "name": "หนังไทย",
- "author": "(=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 11 พฤศจิกายน 2567",
+ "author": "(=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)",
  "image": "https://img2.pic.in.th/pic/L2bce56c5afb72926.png",
  "url"  :  "https://dl.dropboxusercontent.com/scl/fi/yxcksv3vtn4tp8efbxwrz/.w3u?rlkey=4kcy7vo01i25fevaagbbolnpf&st=jsrlc3fk&dl=0",
 "import" : "true"
@@ -17,15 +16,23 @@
 
 
 
-
 {
  "name": "หนังไทย2",
- "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)วันที่ 11 ตุลาคม 2567",
+ "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)",
  "image": "https://img5.pic.in.th/file/secure-sv1/L5.jpg",
  "url"  :  "https://dl.dropboxusercontent.com/scl/fi/gi3as38nzwqupcsazs04z/2.txt?rlkey=mx22z34k2n4lzpqrexcv7ggyk&st=e7aaq2bc&dl=0",
 "import" : "true"
 },
 
+
+
+{
+ "name": "หนังไทย3",
+ "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)",
+ "image": "https://img2.imgbiz.com/imgbiz/47.jpg",
+ "url"  :  "https://dl.dropboxusercontent.com/scl/fi/bhfk82ro7jt0x4dz26m6j/3.txt?rlkey=w8p4z7exs96n32zgku69mxh9s&st=j938a5tp&dl=0",
+"import" : "true"
+},
 
 
 
