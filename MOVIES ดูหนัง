@@ -68,6 +68,36 @@
  "import":"true"
 },
 {
+"name": "Horror1",
+"image": "https://tinyurl.com/5ym94wf5",
+"url": "https://raw.githubusercontent.com/9Pichapob/HORROR/refs/heads/main/Horror1",
+"import":"true"
+},
+{
+"name": "Horror2",
+"image": "https://i.pinimg.com/originals/4c/10/6a/4c106ac0f747891d33d7ac632c0a97ca.jpg",
+"url": "https://raw.githubusercontent.com/9Pichapob/HORROR/refs/heads/main/Horror2",
+"import":"true"
+},
+{
+"name": "Horror3",
+"image": "",
+"url": "https://raw.githubusercontent.com/9Pichapob/HORROR/refs/heads/main/Horror3",
+"import":"true"
+},
+{
+"name": "Horror4",
+"image": "https://pbs.twimg.com/media/DCxkehDVoAEN0je.jpg",
+"url": "https://raw.githubusercontent.com/9Pichapob/HORROR/refs/heads/main/Horror4",
+"import":"true"
+},
+{
+"name": "Horror วางหนังผี",
+"image": "https://f.ptcdn.info/895/078/000/rkmf3o7589eupndTP5Q-o.jpg",
+"url": "https://raw.githubusercontent.com/9Pichapob/HORROR/refs/heads/main/Last%20H",
+ "import":"true"
+},
+{
   "name": "Movies 1970-2021",
   "author": "อุ๋ง อุ๋ง อัพวันที่ 06/07/2023",
   "image": "https://www.movie2ufree.tv/wp-content/uploads/2025/02/logo-movie2ufree.webp",
@@ -127,12 +157,6 @@
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDwTcLJ1LvQwECwWI9hzrwT_GNAwPTexNu4g&s",
     "url": "https://pastebin.com/raw/WT7mzw38",
    "import":"true"
-},
-{
-"name": "🍀320HD[PL]🍀",
-"image": "https://320hd.vip/wp-content/uploads/2023/02/cropped-333.png",
-"url": "http://tiny.cc/n411001",
-"import": false
 },
 {
 "name": "หนังใหม่ 2025",
