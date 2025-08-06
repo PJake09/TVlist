@@ -66,4 +66,11 @@
 "url": "https://pastebin.com/raw/aa1V1hMp",
 "import": "true"
 },
+  {
+   "name": "ช่องทีวีออนไลน์",
+   "info": "HD th IMDb n/a",
+   "image": "https://img2.pic.in.th/pic/IMG_20250719_144111.jpg",
+   "url": "https://raw.githubusercontent.com/PJake09/TVonLINE/refs/heads/main/TV%20channel",
+   "import": "true"
+},
 ]}
