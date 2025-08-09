@@ -259,8 +259,6 @@ url:"https://dookeela.live/live-tv/truethaifilm",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.45",
 "playInNatPlayer": "true"
 },
-
-
 {
 "name": "Action Movies",
 "image": "https://img2.pic.in.th/pic/1234f66eadb572f3d1d4.png", 
@@ -334,32 +332,32 @@ url:"https://dookeela.live/live-tv/truethaifilm",
 "playInNatPlayer": "true"
 },
 {
-"name":  "MONO29",
-"image":"https://dl.dropboxusercontent.com/scl/fi/vjgk7rhph5yneq5558zys/MONO29.png?rlkey=rfglw3g31vtqdwlz8ykhvj015&dl=0",
-"url":"https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/playlist.m3u8",
+name:"  MONO29",
+image:"https://dl.dropboxusercontent.com/scl/fi/vjgk7rhph5yneq5558zys/MONO29.png?rlkey=rfglw3g31vtqdwlz8ykhvj015&dl=0",
+url:"https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/playlist.m3u8",
 "info": "10800PTH" 
 },
 {
-"name":"MONO29 ",
-"image":"https://dl.dropboxusercontent.com/scl/fi/vjgk7rhph5yneq5558zys/MONO29.png?rlkey=rfglw3g31vtqdwlz8ykhvj015&dl=0",
-"url":"https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/playlist.m3u8",
+name:"  MONO29 ",
+image:"https://dl.dropboxusercontent.com/scl/fi/vjgk7rhph5yneq5558zys/MONO29.png?rlkey=rfglw3g31vtqdwlz8ykhvj015&dl=0",
+url:"https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/playlist.m3u8",
 "info": "1080PEN" 
 },
 
 {
-"name":  "TRUE4U",
-"image:"https://dl.dropboxusercontent.com/scl/fi/qzrn0xxuwd82moh55rfkz/TRUE4U.png?rlkey=0blvnt059ujk034i1c0mpq24n&dl=0",
+name:"  TRUE4U",
+image:"https://dl.dropboxusercontent.com/scl/fi/qzrn0xxuwd82moh55rfkz/TRUE4U.png?rlkey=0blvnt059ujk034i1c0mpq24n&dl=0",
 url:"https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8",
 "info"  : "edge6a",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-"name":  "TRUE4U",
-"image":"https://dl.dropboxusercontent.com/scl/fi/qzrn0xxuwd82moh55rfkz/TRUE4U.png?rlkey=0blvnt059ujk034i1c0mpq24n&dl=0",
-"url":"https://inwiptv.com/player_demo.php?channel=27156",
+name:"  TRUE4U",
+image:"https://dl.dropboxusercontent.com/scl/fi/qzrn0xxuwd82moh55rfkz/TRUE4U.png?rlkey=0blvnt059ujk034i1c0mpq24n&dl=0",
+url:"https://inwiptv.com/player_demo.php?channel=27156",
 "referer": "https://inwiptv.com",
 "info": "inwiptv",
-"playInNatPlayer": "true"
+playInNatPlayer: "true"
 },
 
 {"name"		: "CHANNEL 8",
@@ -756,20 +754,143 @@ image:"https://dl.dropboxusercontent.com/scl/fi/tkextwyj7pxngy05vvrjr/MVtv.png?r
 },
 
 {
-"name":"Channel 8",
-"image":"https://www.tvjaa.com/storage/tv-channels/channel8thailand.png",
-"url":"https://cdn-th-vip.login.in.th/ch8/ch8/playlist.m3u8",
+name:"Channel 8",
+image:"https://www.tvjaa.com/storage/tv-channels/channel8thailand.png",
+url:"https://cdn-th-vip.login.in.th/ch8/ch8/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 
 {
-"name":"BOX FILM",
-"image":"https://sv1.picz.in.th/images/2021/11/18/6SOzQD.png",
-"url":"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/playlist.m3u8",
+name:"BOX FILM",
+image:"https://sv1.picz.in.th/images/2021/11/18/6SOzQD.png",
+url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/playlist.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+"playInNatPlayer": "true"
+},
+{
+name:"SAMURAI",
+image:"https://sv1.picz.in.th/images/2022/10/11/p851JI.png",
+url:"https://61.19.242.134/feed/eI5rczhSQpWBcgOtqRLNWw/LC2/index.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
 "playInNatPlayer": "true"
 },
 
+{
+name:"Cool Channel",
+image:"https://cool-channel.com/wp-content/uploads/2022/11/Logo-Final-03-10-59.png",
+url:"https://live.cool-channel.com/cool/live-720P.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+name:"มังกร",
+image:"https://www.img04.xyz/assets/img/ch_logo/MANGORN.png",
+url:"http://49.0.87.24:1936/HDDragon/Dragon/playlist.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+{
+name:"Sanook",
+image:"https://sv1.picz.in.th/images/2022/10/11/p856A9.png",
+url:"https://61.19.242.134/feed/eI5rczhSQpWBcgOtqRLNWw/LC53/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+{
+name:"Movie world 1",
+image:"https://sv1.picz.in.th/images/2022/10/07/p2UNRb.png",
+url:"https://61.19.242.134/feed/eI5rczhSQpWBcgOtqRLNWw/LC11/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+{
+name:"Mix Major Channel",
+image:"https://media-mvtv-app.imgix.net/uploads/channel/36_x_wEfgYVBHLrQSiDF8K3kx1auP4yUR2AO7.jpg",
+url:"https://n-edge-1-th.v2h-cdn.com/mixmajor_m/mixmajor/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+name:"TVB Thai",
+image:"https://media-mvtv-app.imgix.net/uploads/channel/89_x_2CkFD4GRmKxdOP0W3T7cuvrMVQs5ypj6.jpg",
+url:"https://n-edge-1-th.v2h-cdn.com/tvb_m/tvb_thai/playlist.m3u8",
+"playInNatPlayer": "true"
+},
+
+{
+name:"7flix",
+image:"https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/7flix_logo_2020.svg/440px-7flix_logo_2020.svg.png",
+url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC5/index.m3u8",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
+"playInNatPlayer": "true"
+},
+
+{
+name:"MONO29 Plus",
+image:"https://monoplus.mthai.com/app/themes/monoplus/images/logo_mono29plus.png?4",
+url:"https://dookeela.live/live-tv/mono29plus#",
+"referer"           :  "",
+"playInNatPlayer": "true"
+},
+
+{
+name:"3BB ASIAN",
+image:"https://dookeela.live/uploads/1703829940.png",
+url:"https://dookeela.live/live-tv/3bbasian#",
+"playInNatPlayer": "true"
+},
+
+{
+name:"BollywooD Classic",
+image:"https://dookeela.live/uploads/1708490949.png",
+url:"https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/c7980632-505b-4c77-9bd6-cb904c9d3a98/1.m3u8",
+"referer"           :  "",
+"playInNatPlayer": "true"
+},
+
+{
+name:"Bollywood HD",
+image:"https://dookeela.live/uploads/1708490933.png",
+url:"https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/1770887b-4491-40b2-8e7c-1cc74d5c7e69/1.m3u8",
+"referer"           :  "",
+"playInNatPlayer": "true"
+},
+
+{
+name:"ATTV",
+image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0039.png",
+url:"https://aisplay.ais.co.th/portal/live?vid=5981e47d7ed5a21c6fb4562b",
+"referer"           :  "",
+"playInNatPlayer": "true"
+},
+
+{
+name:"ROCK Action",
+image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.png",
+url:"https://dookeela.live/live-tv/rock-action",
+"referer"           :  "",
+"playInNatPlayer": "true"
+},
+
+{
+name:"ROCK ENTERTAINMENT",
+image:"https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png",
+url:"https://dookeela.live/live-tv/rock-entertainment",
+"referer"           :  "",
+"playInNatPlayer": "true"
+},
+
+{
+"name": "CRIME INVESTI GATION",
+"image": "https://img5.pic.in.th/file/secure-sv1/-crop-crop.png",
+"url" : "https://livesod365.com/live/sd-ci/Crime%20&%20Investigation%20(TH)/",
+"referer": "https://livesod365.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36","playInNatPlayer": "true",
+"playInNatPlayer": "true"
+},
 
 {"name":"Live-A",
 "image":"https://s.imgz.io/2025/07/13/live19813aa11bf71ab56.png",
