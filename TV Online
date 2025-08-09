@@ -649,6 +649,42 @@ url:"https://dookeela.live/live-tv/rock-entertainment",
 "playInNatPlayer": "true"
 },
 
+{"name":"TLC",
+"image":"https://dookeela.live/uploads/1717696038.png",
+"url": "https://goal-th.com/ช่องรายการทีวี/?id=396&tv=TLC",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.110"
+},
+{"name":"TLC",
+"image":"https://dookeela.live/uploads/1717696038.png",
+"url": "https://dookeela.live/live-tv/tlc",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.111"
+},
+{"name": "outdoor",
+"image": "https://www.mncvision.id/userfiles/image/channel/channel_460.png",
+"url": "https://github.com/bestcommt2/m3u8/raw/refs/heads/master/outdoor.m3u8",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.3"
+},
+{"name": "outdoor",
+"image": "https://www.mncvision.id/userfiles/image/channel/channel_460.png",
+"url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8",
+"referer": "https://dookeela.live/"
+},
+{"name":"Rush",
+"image":"https://dookeela.live/uploads/1741273735.png",
+"url":"https://dookeela.live/live-tv/rush-stories",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.3"
+},
+{"name":"Alure Channel",
+"image":"https://dookeela.live/uploads/1731057748.png",
+"url":"https://dookeela.live/live-tv/alure-channel",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.3"
+}, 
+
 {"name":"Live-A",
 "image":"https://s.imgz.io/2025/07/13/live19813aa11bf71ab56.png",
 "url": "https://slave02.appball.vip/hls/sporttv2.m3u8",
