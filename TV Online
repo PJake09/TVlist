@@ -334,32 +334,32 @@ url:"https://dookeela.live/live-tv/truethaifilm",
 "playInNatPlayer": "true"
 },
 {
-name:"  MONO29",
-image:"https://dl.dropboxusercontent.com/scl/fi/vjgk7rhph5yneq5558zys/MONO29.png?rlkey=rfglw3g31vtqdwlz8ykhvj015&dl=0",
-url:"https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/playlist.m3u8",
+"name":  "MONO29",
+"image":"https://dl.dropboxusercontent.com/scl/fi/vjgk7rhph5yneq5558zys/MONO29.png?rlkey=rfglw3g31vtqdwlz8ykhvj015&dl=0",
+"url":"https://streaming.monomax.me/Mono29LiveStream/ngrp:myStream_all/playlist.m3u8",
 "info": "10800PTH" 
 },
 {
-name:"  MONO29 ",
-image:"https://dl.dropboxusercontent.com/scl/fi/vjgk7rhph5yneq5558zys/MONO29.png?rlkey=rfglw3g31vtqdwlz8ykhvj015&dl=0",
-url:"https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/playlist.m3u8",
+"name":"MONO29 ",
+"image":"https://dl.dropboxusercontent.com/scl/fi/vjgk7rhph5yneq5558zys/MONO29.png?rlkey=rfglw3g31vtqdwlz8ykhvj015&dl=0",
+"url":"https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080EN.stream/playlist.m3u8",
 "info": "1080PEN" 
 },
 
 {
-name:"  TRUE4U",
-image:"https://dl.dropboxusercontent.com/scl/fi/qzrn0xxuwd82moh55rfkz/TRUE4U.png?rlkey=0blvnt059ujk034i1c0mpq24n&dl=0",
+"name":  "TRUE4U",
+"image:"https://dl.dropboxusercontent.com/scl/fi/qzrn0xxuwd82moh55rfkz/TRUE4U.png?rlkey=0blvnt059ujk034i1c0mpq24n&dl=0",
 url:"https://edge6a.v2h-cdn.com/true4u/true4u.stream/playlist.m3u8",
 "info"  : "edge6a",
     "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1", "desktop": "true"
 },
 {
-name:"  TRUE4U",
-image:"https://dl.dropboxusercontent.com/scl/fi/qzrn0xxuwd82moh55rfkz/TRUE4U.png?rlkey=0blvnt059ujk034i1c0mpq24n&dl=0",
-url:"https://inwiptv.com/player_demo.php?channel=27156",
+"name":  "TRUE4U",
+"image":"https://dl.dropboxusercontent.com/scl/fi/qzrn0xxuwd82moh55rfkz/TRUE4U.png?rlkey=0blvnt059ujk034i1c0mpq24n&dl=0",
+"url":"https://inwiptv.com/player_demo.php?channel=27156",
 "referer": "https://inwiptv.com",
 "info": "inwiptv",
-playInNatPlayer: "true"
+"playInNatPlayer": "true"
 },
 
 {"name"		: "CHANNEL 8",
@@ -410,7 +410,6 @@ url:"https://live.thaitvstream.com/play/thainews/index.m3u8",
 "image"		: "https://www.fileinw.com/postor/20240429213309FWMOV.jpg",  
 "url"  : "https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=",
 "playInNatPlayer"	:	"true"
-},
 },
 {"name"		: "FwSon",
 "image"		: "https://www.fileinw.com/postor/20240429213326FWSOV.jpg",  
@@ -757,16 +756,16 @@ image:"https://dl.dropboxusercontent.com/scl/fi/tkextwyj7pxngy05vvrjr/MVtv.png?r
 },
 
 {
-name:"Channel 8",
-image:"https://www.tvjaa.com/storage/tv-channels/channel8thailand.png",
-url:"https://cdn-th-vip.login.in.th/ch8/ch8/playlist.m3u8",
+"name":"Channel 8",
+"image":"https://www.tvjaa.com/storage/tv-channels/channel8thailand.png",
+"url":"https://cdn-th-vip.login.in.th/ch8/ch8/playlist.m3u8",
 "playInNatPlayer": "true"
 },
 
 {
-name:"BOX FILM",
-image:"https://sv1.picz.in.th/images/2021/11/18/6SOzQD.png",
-url:"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/playlist.m3u8",
+"name":"BOX FILM",
+"image":"https://sv1.picz.in.th/images/2021/11/18/6SOzQD.png",
+"url":"https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC52/playlist.m3u8",
 "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36",
 "playInNatPlayer": "true"
 },
