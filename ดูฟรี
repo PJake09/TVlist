@@ -25,6 +25,11 @@
     "import": "true"
 },
 
+{"name": "BONDtv",
+"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bond_logo.svg/812px-Bond_logo.svg.png",
+"url": "https://raw.githubusercontent.com/BONDiptv/playlist_BONDtv/refs/heads/main/Playlist",
+"import": true},
+
 {"name": "Premium Channel",
 "image": "https://uppic.cloud/ib/36G21fJFys3RZzo_1738572890.png",
 "url": "https://freenote.biz/raw/jmmuyhbbc1",
