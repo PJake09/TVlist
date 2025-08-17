@@ -863,14 +863,20 @@ url:"https://dookeela.live/live-tv/rock-entertainment",
 "referer": "https://warpdooball.net/",
 "playInNatPlayer": "true"},
 
-{"name":"ASEAN Mandiri Cup",
-"image":"https://img2.pic.in.th/pic/AseanU23_01.png",
-"url":"https://dookeela.live/live-tv/asean-u23-mandiri-cup-1/",
-"playInNatPlayer": "true"},
+{
+"name": "Monomax1",
+"image": "https://i.postimg.cc/J0fWnHBW/1111.jpg",
+"url": "https://dkl-o53d.cdn.akamaiz.com/goalthcom_x5/monomax1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNy8yMDI1IDU6NTI6MjEgQU0maGFzaF92YWx1ZT15cGFwaXJvY0tBUXZ4Y2NJYWk5Q093PT0mdmFsaWRtaW51dGVzPTIw",
+"referer": "https://goal-th.com/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/10.0.0.0 Safari/537.36"
+},
 
-{"name":"ASEAN Mandiri Cup",
-"image":"https://img2.pic.in.th/pic/AseanU23_01.png",
-"url":"https://dookeela.live/live-tv/asean-u23-mandiri-cup-2/",
-"playInNatPlayer": "true"},
+{
+"name": "Monomax1 (สำรอง)",
+"image": "https://i.postimg.cc/J0fWnHBW/1111.jpg",
+"url": "https://dookeela2.live/live-tv/monomax1",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36"
+},
 ]                                                    
 }
