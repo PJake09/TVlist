@@ -349,42 +349,42 @@ url:"https://live.thaitvstream.com/play/thainews/index.m3u8",
     {
      "name": "FWMOV",
      "image": "https://www.fileinw.com/postor/20240429213309FWMOV.jpg",
-     "url": "https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI1IDI6MzI6NDEgUE0maGFzaF92YWx1ZT0rbStKdk9KZjF1STd1MmtaMnBYNW93PT0mdmFsaWRtaW51dGVzPTI=",
+     "url": "https://freelive2.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI1IDI6MzI6NDEgUE0maGFzaF92YWx1ZT0rbStKdk9KZjF1STd1MmtaMnBYNW93PT0mdmFsaWRtaW51dGVzPTI.m3u",
      "referer": "https://inwiptv.org/",
       "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
     },
     {
      "name": "FWSOV",
      "image": "https://www.fileinw.com/postor/20240429213326FWSOV.jpg",
-     "url": "https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI1IDI6NDA6NTIgUE0maGFzaF92YWx1ZT01NVkzcnNuMTlxRTgzWHYyalF5bnp3PT0mdmFsaWRtaW51dGVzPTI=",
+     "url": "https://freelive2.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI1IDI6NDA6NTIgUE0maGFzaF92YWx1ZT01NVkzcnNuMTlxRTgzWHYyalF5bnp3PT0mdmFsaWRtaW51dGVzPTI.m3u",
      "referer": "https://inwiptv.org/",
       "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
     },
     {
      "name": "FWTOON",
      "image": "https://www.fileinw.com/postor/20240429213651FWTOON.jpg",
-     "url": "https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI1IDI6NDM6MTkgUE0maGFzaF92YWx1ZT1lcC82bFlsNENHVStZays0UXJQcjZ3PT0mdmFsaWRtaW51dGVzPTI=",
+     "url": "https://freelive2.inwstream.com:1936/freelive-edge/fwtoon_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI1IDI6NDM6MTkgUE0maGFzaF92YWx1ZT1lcC82bFlsNENHVStZays0UXJQcjZ3PT0mdmFsaWRtaW51dGVzPTI.m3u",
      "referer": "https://inwiptv.org/",
       "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
     },
     {
      "name": "FWDoc",
      "image": "https://www.fileinw.com/postor/20240617204638FWDoc.jpg",
-     "url": "https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI1IDI6NDQ6NDQgUE0maGFzaF92YWx1ZT1HUHdkU0VNUC9xL01UdmkrbTJOWGJ3PT0mdmFsaWRtaW51dGVzPTI=",
+     "url": "https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI1IDI6NDQ6NDQgUE0maGFzaF92YWx1ZT1HUHdkU0VNUC9xL01UdmkrbTJOWGJ3PT0mdmFsaWRtaW51dGVzPTI.m3u",
      "referer": "https://inwiptv.org/",
       "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
     },
     {
      "name": "FWsport",
      "image": "https://www.fileinw.com/postor/20240429213640FWsport.jpg",
-     "url": "https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI1IDI6NDY6MjMgUE0maGFzaF92YWx1ZT1neUc5ZUlCS1pYeTdldHhXQzVuZGp3PT0mdmFsaWRtaW51dGVzPTI=",
+     "url": "https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI1IDI6NDY6MjMgUE0maGFzaF92YWx1ZT1neUc5ZUlCS1pYeTdldHhXQzVuZGp3PT0mdmFsaWRtaW51dGVzPTI.m3u",
      "referer": "https://inwiptv.org/",
       "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
     },
     {
      "name": "just_for_laughs_gags",
      "image": "https://www.fileinw.com/postor/20240429213343just_for_laughs_gags.jpg",
-     "url": "https://freelive2.inwstream.com:1936/freelive-edge/gags_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI1IDI6NDc6NDUgUE0maGFzaF92YWx1ZT1KbHNlMEROUEx2VlR4ZW16TVlpNXNBPT0mdmFsaWRtaW51dGVzPTI=",
+     "url": "https://freelive2.inwstream.com:1936/freelive-edge/gags_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDI1IDI6NDc6NDUgUE0maGFzaF92YWx1ZT1KbHNlMEROUEx2VlR4ZW16TVlpNXNBPT0mdmFsaWRtaW51dGVzPTI.m3u",
      "referer": "https://inwiptv.org/",
       "user-agent"  :  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
     },
@@ -405,12 +405,12 @@ url:"https://live.thaitvstream.com/play/thainews/index.m3u8",
 },
 {"name"		: "FWDOC",  
 "image"		: "https://www.fileinw.com/postor/20240617204638FWDoc.jpg",  
-"url"  : "https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=",
+"url"  : "https://freelive2.inwstream.com:1936/freelive-edge/fwdoc_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI.m3u",
 "playInNatPlayer"	:	"true"
 },
 {"name"		: "FWSPORT",  
 "image"		: "https://www.fileinw.com/postor/20240429213640FWsport.jpg",  
-"url"  : "https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI=",
+"url"  : "https://freelive2.inwstream.com:1936/freelive-edge/fwsport_fw-iptv.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMi8yMDI1IDM6NDY6MDEgQU0maGFzaF92YWx1ZT1ZK2c4UVJ6ajIvRDhaaThOZ1lkYkdRPT0mdmFsaWRtaW51dGVzPTI.m3u",
 "playInNatPlayer"	:	"true"
 },
 
