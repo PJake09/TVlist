@@ -8,15 +8,7 @@
                 "image": "https://cdn.dribbble.com/users/442750/screenshots/2196790/3.gif",
                 "url": "https://raw.githubusercontent.com/PJake09/TVlist/refs/heads/main/ดูฟรี",
                 "import": false },
-                
-{
-		"name": "Ð∞𝐓𝐔𝐁𝐄",
-		"author": "Ð∞𝐓𝐔𝐁𝐄",
-		"image":"https://i.imgur.com/NeZsNcV.gif",
-        "url": "https://dl.dropboxusercontent.com/scl/fi/osdhnlstn5nq0y0vz1xqb/Tube-Doo-Edit.txt?rlkey=l5vbthacstlhkvpch8h4y0unc&st=a2j99bwh&dl=0",
-        "import": "true"
-},     
-        
+
 {
     "name": "อุ๋ง อุ๋ง จะดู",
     "author": "อุ๋ง อุ๋ง จะดู",
@@ -24,6 +16,19 @@
     "url": "https://raw.githubusercontent.com/9Pichapob/Du-Nang/refs/heads/main/du%20nang",
     "import": "true"
 },
+
+{
+		"name": "Ð∞𝐓𝐔𝐁𝐄",
+		"author": "Ð∞𝐓𝐔𝐁𝐄",
+		"image":"https://i.imgur.com/NeZsNcV.gif",
+        "url": "https://dl.dropboxusercontent.com/scl/fi/osdhnlstn5nq0y0vz1xqb/Tube-Doo-Edit.txt?rlkey=l5vbthacstlhkvpch8h4y0unc&st=a2j99bwh&dl=0",
+        "import": "true"
+},     
+
+{"name": "FREE",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTry7f0_YQRGk9CU3IaaRn2ccnv8hPlXo-K7A&s",
+"url":"https://tinyurl.com/2p9kjred",
+"import": true},
 
 {"name": "BONDtv",
 "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bond_logo.svg/812px-Bond_logo.svg.png",
