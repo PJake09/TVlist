@@ -124,16 +124,6 @@
 "userAgent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Mobile Safari/537.36",
 "playInNatPlayer": "true"
 }, 
-
-{
-"name": "Action Movies",
-"image": "https://img2.pic.in.th/pic/1234f66eadb572f3d1d4.png", 
-"url": "https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueccm.m3u8",
-"referer": "https://dookeela.live/",
-"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.81",
-"playInNatPlayer": "true"
-},     
-
 {
 "name": "IDSeries",
 "image": "https://i.ibb.co/wFSYqgpG/logo-fuckseries.png", 
@@ -301,6 +291,14 @@ url:"https://live.thaitvstream.com/play/thainews/index.m3u8",
 "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.45",
 "playInNatPlayer": "true"
 },       
+{
+"name": "Action Movies",
+"image": "https://img2.pic.in.th/pic/1234f66eadb572f3d1d4.png", 
+"url": "https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueccm.m3u8",
+"referer": "https://dookeela.live/",
+"userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.81",
+"playInNatPlayer": "true"
+},     
 {
 "name": "ROCK ACTION HD",
 "image": "https://img5.pic.in.th/file/secure-sv1/XX.png", 
