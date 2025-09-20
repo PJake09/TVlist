@@ -166,7 +166,116 @@
 "referer": "http-user-agent=ห้ามแชร์",
 "playInNatPlayer": "true"
 },
-
+{
+"name": "True Thaifilm",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/28/46f1c480-e599-11ed-96ec-4d05b9e2ca86_webp_original.png", 
+"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truethaifilm.m3u8"
+},
+{
+"name": "True_Series",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/28/456c5d00-e599-11ed-b550-9935ba8025b9_webp_original.webp",
+"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueseries.m3u8"
+},          
+{
+"name": "True Movie Hits",
+"image": "https://cms.dmpcdn.com/livetv/2024/01/16/cccc0160-b44c-11ee-9f05-591527f02603_webp_original.webp",
+"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truemoviehit.m3u8"
+},         
+{
+"name": "True Film 1HD",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/28/43f28e40-e599-11ed-844f-795506bf0bf9_webp_original.webp",
+"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truefilm1.m3u8"
+},       
+{
+"name": "True Film 2HD",
+"image": "https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f885_webp_original.webp", 
+"url" : "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truefilm2.m3u8"
+},        
+{
+"name": "True Asian More",
+"image": "https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp",
+"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueasiamove.m3u8"
+},
+{
+"name": "True Film Asia",
+"image": "https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d464_webp_original.png",
+"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truefilmasia.m3u8"
+},
+{
+"name": "TRUE CCM",
+"image": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",
+"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueccm.m3u8"
+},
+{
+"name": "True Explorer Life",
+"image": "https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",
+"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueexplorelife.m3u8"
+},
+{
+"name": "True Explore Sci",
+"image": "https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp",
+"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueexploresci.m3u8"
+},
+{
+"name":"True Explore Wild",
+"image":"https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png",
+"url":"https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueexplorewild.m3u8"
+},
+{
+"name":"True Crime+Investigation",
+"image":"https://cms.dmpcdn.com/livetv/2022/10/11/f09e41a0-492e-11ed-bb17-0527d4e1664c_webp_original.webp",
+"url":"https://github.com/BONDiptv/m3u8/raw/refs/heads/main/CrimeInvesti.m3u8"
+}, 
+{
+"name": "BBC Life style",
+"image": "https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f4f9.png",
+"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueBBCLIFESTYLE.m3u8"
+},       
+{
+"name": "TRUE Lifetime",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png", 
+"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truelifetime.m3u8"
+},     
+{
+"name": "True AXN",
+"image": "https://cms.dmpcdn.com/livetv/2019/01/24/a1e34189-e612-4afa-b784-6a01215bc592.png", 
+"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueAXN.m3u8"
+},       
+{
+"name": "TRUE HISTORY",
+"image": "https://cms.dmpcdn.com/livetv/2023/05/26/e0b94410-fb8a-11ed-9087-3197146bda13_webp_original.png", 
+"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueH2.m3u8"
+},       
+{
+"name": "TRUE DreamWorks",
+"image": "https://iptv-pro.github.io/logo/DREAMWORKS.png", 
+"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truedreamworks.m3u8"
+},     
+{
+"name": "TRUE SPARK PLAY",
+"image": "https://images.livebox.co/images/tv/png/sd-sparkplay.png", 
+"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truesparkplay.m3u8"
+},       
+{
+"name": "TRUE WARNER TV",
+"image": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0105.png", 
+"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truewb.m3u8"
+},       
+{
+"name": "TRUE Nick jr",
+"image": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/Nickjr_2024.png", 
+"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truenickjr.m3u8"
+},       
+{
+"name": "TRUE X-ZYTE",
+"image": "https://cms.dmpcdn.com/livetv/2024/04/10/5ecb9e30-f724-11ee-a17f-0795ff88f566_webp_original.webp", 
+"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/truexzyte.m3u8"
+},       
+{
+"name": "TRUE ANIMAL PLANET",
+"image": "https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png", 
+"url": "https://github.com/BONDiptv/m3u8/raw/refs/heads/main/trueANIMALPLANET.m3u8"
+}, 
 {"name"		: "CHANNEL 8",
 "image"		: "https://dl.dropboxusercontent.com/scl/fi/5igqol362zyd17h8kag55/CHANNEL-8.png?rlkey=9j6elyfknj1kg3smlzxnd0sfl&dl=0",
 "url"			: "https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8",
