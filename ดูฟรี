@@ -50,11 +50,6 @@
 "url": "https://shorturl.asia/VLOb5",
 "import": true},
 
-{"name": "BONDtv",
-"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Bond_logo.svg/812px-Bond_logo.svg.png",
-"url": "https://raw.githubusercontent.com/BONDiptv/playlist_BONDtv/refs/heads/main/Playlist",
-"import": true},
-
 {"name": "Premium Channel",
 "image": "https://uppic.cloud/ib/36G21fJFys3RZzo_1738572890.png",
 "url": "https://freenote.biz/raw/jmmuyhbbc1",
@@ -89,7 +84,7 @@
 {
 "name": "IPTV Society 2024",
 "author": "Update 09-05-2567",
-"image": "https://sv1.picz.in.th/images/2022/02/08/rdKgL9.png",
+"image": "https://i.pinimg.com/736x/7f/a8/af/7fa8af90a7de5f475018c2d2e529c006.jpg",
 "url": "https://freenote.biz/raw/gw1wm0703o",
 "import": "false"},
  
@@ -101,21 +96,11 @@
 
  {"name": "Alha Selatan[m3u]","image": "https://i.postimg.cc/y6hTBY0j/iptvm3u.jpg","url": "https://raw.githubusercontent.com/BeritaSelatan/Aha/refs/heads/main/Tvuu","import": "false"},
 
-{"name": "🐲ดูหนังฟรี1",
-"image":"https://img5.pic.in.th/file/secure-sv1/Design-Studio-2024-03-06.png",
-"url": "https://pastebin.com/raw/h6MtXfMf",
-"import": "true"},
- 
-{"name": "🐲ดูหนังฟรี2",
+{"name": "🐲ดูหนังฟรี",
 "author": "Yantech",
 "image":"https://img5.pic.in.th/file/secure-sv1/Design-Studio-2024-03-06.png",
 "url": "https://pastebin.com/raw/UkwWcuen",
 "import": "true"},
- 
-{"name": "🐲MOVIES",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJcxgEJlKZ_S-qNpCZ3PsAHpnGGKk5RnsQQ&usqp=CAU",
-"url":"https://drive.google.com/uc?id=1DWHTXNi-nr8d-vNyA7CRZx-YoXQwBwpI",
-"import":"true"},
 
 {"name": "🐲123HD",
 "image": "https://www.123-hd.com/wp-content/uploads/2019/10/testa7.png",
@@ -138,13 +123,6 @@
 "import": "true"},
 
 {
- "name":"Series Thai",
- "author": "ต้นไม้",
- "image": "https://drive.google.com/uc?id=1Rc49zl97WetDZUcxckRM01SGSYiXlowf",
- "url": "https://drive.google.com/uc?id=1EmeF4Mt9qwNh4opjrWRLuABE-IAwLOJw",
-"import": "true"},
-
-{
 "name" : "Walking Dead",
 "image" : "https://nanamovies.net/wp-content/uploads/2023/10/The-Walking-Dead-World-Beyond-Season-1.jpeg",
 "url" : "https://drive.google.com/uc?id=1LR54Y7mgduci2S4HuyPSf5wZUfpBWGzX",
@@ -155,18 +133,6 @@
 "image" : "https://www.serieday-hd.com/wp-content/uploads/2023/03/Prison-Break-Season-1-2005-200x300.jpg",
 "url" : "https://drive.google.com/uc?id=1Qnb_uPyQjWd1nQOK67OXNm7i7Prs87FH",
 "import" : true"
-},
-
- {"name": "🐲ก๊อบมั๊ย nung2hddd ",
-"image":"https://i.giphy.com/JeTRVH2Rj3etGaiaCF.gif",
-"url": "http://bit.ly/3iAclgr",
-"import": "true"},
-{
-"name": "📺Like🎶",
-"author": "Jake",
-"image": "https://img2.imgbiz.com/imgbiz/Like.webp",
-"url": "https://drive.google.com/uc?id=1fu3cPruo5KEkZUZqXrq3ky3LZw5IgKeB",
-"import": "true"
 },
 
 {"name": "🐲Global IPTV",
