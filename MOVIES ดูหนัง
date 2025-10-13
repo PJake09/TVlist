@@ -79,6 +79,12 @@
  "url": "https://raw.githubusercontent.com/9Pichapob/Movies/refs/heads/main/หนังดี",
  "import":"true"
 },
+{		
+ "name": "หนังเอเชีย",	
+ "image": "https://img2.pic.in.th/pic/ChinaMovie-V5.png",
+ "url": "https://raw.githubusercontent.com/9Pichapob/Movies/refs/heads/main/Asian",
+ "import":"true"
+},
 {
  "name": "หนังชีวประวัติ เรื่องจริง",
  "image": "https://de88.me/wp-content/uploads/2020/10/cropped-LogoDE88.meดูหนังออนไลน์ฟรีหนังไม่กระตุก2.jpg",
