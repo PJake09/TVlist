@@ -81,8 +81,8 @@
 },
 {		
  "name": "หนังเอเชีย",	
- "image": "https://img2.pic.in.th/pic/ChinaMovie-V5.png",
- "url": "https://img2.imgbiz.com/imgbiz/uq.jpg",
+ "image": "https://img2.imgbiz.com/imgbiz/uq.jpg",
+ "url": "https://raw.githubusercontent.com/9Pichapob/Movies/refs/heads/main/Asian",
  "import":"true"
 },
 {		
