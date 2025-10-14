@@ -7,7 +7,7 @@
 
 {
 "name": "หนังจีน nung2hdd",
-"image": "https://img2.imgbiz.com/imgbiz/uq.jpg",
+"image": "https://img2.pic.in.th/pic/Hwajue.jpg",
 "url": "https://drive.google.com/uc?id=1q6F9dTibAOL1D_ivuILgWDH0vCzb-a1b",
 "import":"true"
 },
@@ -82,7 +82,13 @@
 {		
  "name": "หนังเอเชีย",	
  "image": "https://img2.pic.in.th/pic/ChinaMovie-V5.png",
- "url": "https://raw.githubusercontent.com/9Pichapob/Movies/refs/heads/main/Asian",
+ "url": "https://img2.imgbiz.com/imgbiz/uq.jpg",
+ "import":"true"
+},
+{		
+ "name": "หนังจีน 2",	
+ "image": "https://img2.pic.in.th/pic/ChinaMovie-V5.png",
+ "url": "https://drive.google.com/uc?id=1qLfPy0cxMiOdQVo2YrPz5vfUOd_0-Kc7",
  "import":"true"
 },
 {
