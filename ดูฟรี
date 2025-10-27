@@ -55,6 +55,13 @@
 "import": true},
 
 { 
+"name": "หนัง m3u8",
+"image": "https://t4.ftcdn.net/jpg/01/25/57/91/240_F_125579108_cKIL8gnBgRKqcLeyG03llZNaeFOjoCLH.jpg", 
+"url": "https://drive.google.com/uc?id=1MTKf9xQXFeikDVCpSxwiJA5UfCly2n3F", 
+"import": "true"
+},
+
+{ 
 "name": "=[XTEMUS TV]=",
 "author": "ใช้สำหรับเพื่อความบันเทิงเท่านั้น", 
 "image": "https://tv.xtemus.com/images/x-logo.gif", 
