@@ -57,9 +57,9 @@
 "import": true},
 
 { 
-"name": "หนัง m3u8",
+"name": "Play TV",
 "image": "https://t4.ftcdn.net/jpg/01/25/57/91/240_F_125579108_cKIL8gnBgRKqcLeyG03llZNaeFOjoCLH.jpg", 
-"url": "https://drive.google.com/uc?id=1MTKf9xQXFeikDVCpSxwiJA5UfCly2n3F", 
+"url": "https://drive.google.com/uc?id=1dOJja6EnnCkR_pyIBOLNOCZPG4-NWQF8", 
 "import": "true"
 },
 
@@ -90,10 +90,9 @@
 "import": "true"
 },
 {
-"name": "IPTV Society 2024",
-"author": "Update 09-05-2567",
-"image": "https://i.pinimg.com/736x/7f/a8/af/7fa8af90a7de5f475018c2d2e529c006.jpg",
-"url": "https://freenote.biz/raw/gw1wm0703o",
+"name": "Playlist IPTV",
+"image": "https://www.offidocs.com/images/xiptvsmarterlogoicon.jpg.pagespeed.ic.e1ykvJcyOm.jpg",
+"url": "https://drive.google.com/uc?id=1j3fyJV4_lced1nE6fLxJSV63TstLOHyf",
 "import": "false"},
  
 {"name": "🐲PLAYIDTV 2024 UPDATE  07-06-67 ",
@@ -204,8 +203,8 @@
    "import": "true"
   },
 
-{"name" : "TV",
+{"name" : "285Movies",
 "image" : "https://img2.pic.in.th/pic/tiny-toons-looniversity-babs-bunny.gif",
-"url" : "https://drive.google.com/uc?id=1dOJja6EnnCkR_pyIBOLNOCZPG4-NWQF8",
+"url" : "https://drive.google.com/uc?id=1GmMWcg7hktE_44uFg3izDpp7Ppc7y7Kv",
 "import" : "true"},
 ]}
