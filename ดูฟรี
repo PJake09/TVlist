@@ -196,10 +196,9 @@
 },
 
   {
-   "name": "ช่องทีวีออนไลน์",
-   "info": "HD th IMDb n/a",
+   "name": "Chinese Series",
    "image": "https://img2.pic.in.th/pic/IMG_20250719_144111.jpg",
-   "url": "https://raw.githubusercontent.com/PJake09/TVonLINE/refs/heads/main/TV%20channel",
+   "url": "https://drive.google.com/uc?id=1sEeMyzCSvIIpFt8SrTKsJ7VMhCLqN2om",
    "import": "true"
   },
 
