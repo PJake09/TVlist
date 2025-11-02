@@ -195,6 +195,13 @@
 "import": "true"
 },
 
+ {
+"name":"IPTV Thai",
+"image":"https://logomoose.com/wp-content/uploads/2017/10/1-02.jpg",
+"url": "https://raw.githubusercontent.com/akkradet/IPTV-THAI/refs/heads/master/FREETV.m3u",
+"import": "true"
+},
+
   {
    "name": "Chinese Series",
    "image": "https://img2.pic.in.th/pic/IMG_20250719_144111.jpg",
