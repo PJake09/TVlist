@@ -203,6 +203,20 @@
 },
 
   {
+   "name": "digital TV",
+   "image": "https://img5.pic.in.th/file/secure-sv1/20-JakeTV-0.jpeg",
+   "url": "https://drive.google.com/uc?id=1-iv0MbkU-Xu8FIKz8LIiw7ASmbGCrGHQ",
+   "import": "true"
+  },
+
+  {
+   "name": "Sport",
+   "image": "https://img5.pic.in.th/file/secure-sv1/20-JakeTV-0.jpeg",
+   "url": "https://drive.google.com/uc?id=1Sd1FM5411v-JIWd2vW75jinxYLMPoA9O",
+   "import": "true"
+  },
+
+  {
    "name": "Chinese Series",
    "image": "https://img2.pic.in.th/pic/IMG_20250719_144111.jpg",
    "url": "https://drive.google.com/uc?id=1sEeMyzCSvIIpFt8SrTKsJ7VMhCLqN2om",
