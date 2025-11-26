@@ -161,8 +161,14 @@
 {
 "name": "หนังใหม่ 2025",
 "image": "https://img5.pic.in.th/file/secure-sv1/-27b4ec8f6d81f6a21.jpg",
+"url": "https://drive.google.com/uc?id=1C7k26ntjf4QxURT_Dg-rN1EVn1_ZWE-2",
+"import":"true"
+},
+{
+"name": "หนังใหม่ 2025 (2)",
+"image": "https://img5.pic.in.th/file/secure-sv1/-27b4ec8f6d81f6a21.jpg",
 "url": "https://pastebin.com/raw/1ZXQ9gPx",
-"import": false
+"import":"true"
 },
 {
  "name": "ซีรีย์ TOP IMDb",
