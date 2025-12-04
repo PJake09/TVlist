@@ -279,7 +279,13 @@
 {
 "name": "หนังใหม่ doomovie",
 "image": "https://img2.imgbiz.com/imgbiz/maxr.jpg",
-"url": "https://t.ly/ft5Wu,
+"url": "https://t.ly/ft5Wu",
+ "import"	:	"true"
+},
+{
+"name": "หนังใหม่ movie master",
+"image": "https://img2.imgbiz.com/imgbiz/maxr.jpg",
+"url": "https://tinyurl.com/yc72kvcy",
  "import"	:	"true"
 },
 {
