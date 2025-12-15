@@ -44,18 +44,6 @@
  "import":"true"
 },
 {
-"name": "Horror2",
-"image": "https://i.pinimg.com/originals/4c/10/6a/4c106ac0f747891d33d7ac632c0a97ca.jpg",
-"url": "https://raw.githubusercontent.com/9Pichapob/HORROR/refs/heads/main/Horror2",
-"import":"true"
-},
-{
-"name": "Horror1",
-"image": "https://tinyurl.com/5ym94wf5",
-"url": "https://raw.githubusercontent.com/9Pichapob/HORROR/refs/heads/main/Horror1",
-"import":"true"
-},
-{
  "name": "หนังซอมบี้ Zombie Movie",
  "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย",
  "info": "ชีวิตไม่ได้ให้เราสิ่งที่ต้องการเสมอไป แต่มันจะให้เราสิ่งที่เราจำเป็นต้องการ",
