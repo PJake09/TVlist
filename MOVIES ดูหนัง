@@ -1,10 +1,16 @@
 {
 "name": "MOVIES ดูหนัง",
-"author": "Jake 11/5/2025",
+"author": "Jake 1/2/2026",
 "image": "https://f.ptcdn.info/291/047/000/ogs7x3m78qqwWxsz01x-o.jpg",
 "url": "",
 "groups": [
 
+{
+"name":    "หนัง 037hd",
+"image": "https://img2.imgbiz.com/imgbiz/maxr.jpg",
+"url": "https://drive.google.com/uc?id=10FfSZ2M19F6wE2Mi_dpD354XOEWQR7Dp",
+"import":"true"
+},
 {
 "name": "หนังจีน nung2hdd",
 "image": "https://img2.pic.in.th/pic/Hwajue.jpg",
