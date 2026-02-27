@@ -37,6 +37,15 @@
 
 
 {
+ "name": "หนังไทย3ก",
+ "author": "เจียว เจียว (=◍․̫◍=) ดูฟรีเพื่อความบันเทิงภายในที่พักอาศัย (=◍․̫◍=)",
+ "image": "https://img2.pic.in.th/pic/L4.jpg",
+ "url"  :  "https://dl.dropboxusercontent.com/scl/fi/bhfk82ro7jt0x4dz26m6j/3.txt?rlkey=w8p4z7exs96n32zgku69mxh9s&st=j938a5tp&dl=0",
+"import" : "true"
+},
+
+
+{
  "name": "หนังไทย GTH/GDH",
  "image": "https://img5.pic.in.th/file/secure-sv1/L3.jpg",
  "url"  :  "https://dl.dropboxusercontent.com/scl/fi/ovdz0d0sdb84d6llmvhoz/GDH.txt?rlkey=kng51ux49u0n7q651c8pzekzs&st=8tsj1590&dl=0",
