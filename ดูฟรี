@@ -40,6 +40,13 @@
   "import": "true"
 },    
 
+{"name": "MOVIES_SERIES",
+"author": "@แมว",
+"image": "https://i.postimg.cc/PxdbL2Kx/CAT.png",
+"url": "https://drive.google.com/uc?id=1ol7XM7mFBSHPRu-oGi_SFuwurgjlFYUX",
+"import": "true"
+},    
+
 {
 "name": "MyPlaylist",
 "image": "https://image.makewebcdn.com/makeweb/m_1920x0/7GFEYsdVK/DefaultData/9786165886963.jpg",
